@@ -21,4 +21,6 @@
 - `solve` — решить загадку (если есть)
 - `quit` — выйти из игры
 
-asciinema play demo_game.cast
+## Демонстрация игры
+
+Полный игровой процесс записан в файле [demo_game.cast](demo_game.cast).git add .
