@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "the_treasure_maze"
+version = "0.1.0"
+description = "Лабиринт сокровищ"
+authors = ["Максим Цибиков <m9845842@gmail>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.0.285"
+
+[tool.poetry.scripts]
+labyrinth = "the_treasure_maze.main:main"
